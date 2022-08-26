@@ -1,1 +1,2 @@
-# recipe-app-api
+# core-digiship
+DigiShip API and DB
